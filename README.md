@@ -44,6 +44,7 @@ Happy Open Sourcing!
 - [Digits to Figure](algorithms/Maths/digit_to_figure)
 - [T Prime Number](algorithms/Maths/t_prime_number)
 - [Last_Men_Standing](algorithms/Maths/last_men_standing)
+- [Sieve of Eratosthenes](algorithms/Maths/sieve_of_eratosthenes)
 
 ### Sorting
 
